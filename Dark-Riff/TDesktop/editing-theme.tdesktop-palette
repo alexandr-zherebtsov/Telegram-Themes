@@ -251,12 +251,12 @@ historyScrollBg: #ffffff22; // scroll bar background (adjusted)
 historyScrollBgOver: #ffffff33; // scroll bar background with mouse over the scroll bar (adjusted)
 msgInBg: #191919; // inbox message background
 msgInBgSelected: #222222; // inbox selected message background (and background of selected text in those messages)
-msgOutBg: #222222; // outbox message background
-msgOutBgSelected: #333333; // outbox selected message background (and background of selected text in those messages)
+msgOutBg: #191919; // outbox message background
+msgOutBgSelected: #222222; // outbox selected message background (and background of selected text in those messages)
 msgSelectOverlay: #dddddd41; // overlay which is filling the media parts of selected messages (like in selected photo message)
 msgStickerOverlay: #dddddd41; // overlay which is filling the selected sticker message
 msgInServiceFg: windowActiveTextFg; // inbox message information text (like information about a forwarded message original sender)
-msgInServiceFgSelected: #ffffff; // inbox selected message information text (like information about a forwarded message original sender)
+msgInServiceFgSelected: #cccccc; // inbox selected message information text (like information about a forwarded message original sender)
 msgOutServiceFg: #999999; // outbox message information text (like information about a forwarded message original sender)
 msgOutServiceFgSelected: #cccccc; // outbox message information text (like information about a forwarded message original sender)
 msgInShadow: #748ea200; // inbox message shadow (below the bubble)
@@ -345,7 +345,7 @@ toastBg: #000000b2; // toast notification background (like when you click on you
 toastFg: windowFgActive; // toast notification text (like when you click on your t.me link when editing your username)
 reportSpamBg: #363c42; // report spam panel background (like a non contact user writes your for the first time)
 reportSpamFg: windowFg; // report spam panel text (when you send a report from that panel)
-historyToDownBg: #222222; // arrow button background (to scroll to the end of the viewed chat)
+historyToDownBg: #1b1b1b; // arrow button background (to scroll to the end of the viewed chat)
 historyToDownBgOver: #333333; // arrow button background with mouse over
 historyToDownBgRipple: #444444; // arrow button ripple effect
 historyToDownFg: #777777; // arrow button icon
