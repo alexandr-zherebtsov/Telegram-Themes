@@ -1,5 +1,5 @@
 # Telegram-Themes
-6 themes for Telegram (Android &amp; TDesktop).
+6 themes for Telegram (TDesktop, Android &amp; Telegram X).
 
 ## Quick install Telegram themes
 
@@ -9,6 +9,8 @@
 3. Dark Purplish: ```https://t.me/addtheme/DarkPurplish```
 5. Lite Violet Purple: ```https://t.me/addtheme/LiteVioletPurple```
 6. Dark Violet Purple: ```https://t.me/addtheme/DarkVioletPurple```
+
+For Telegram X you must download the theme file and install it (themes for other devices can also be install this way).
 
 ## 1. Lite Riff theme screenshots
 ### Android
