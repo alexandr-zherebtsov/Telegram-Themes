@@ -147,7 +147,7 @@ dialogsSentIconFg: #777777; // chat list sent message tick / double tick icon
 dialogsUnreadBg: #ffffff; // chat list unread badge background for not muted chat
 dialogsUnreadBgMuted: #444444; // chat list unread badge background for muted chat
 dialogsUnreadFg: #111111; // chat list unread badge text
-dialogsOnlineBadgeFg: #cccccc; // chat list online status
+dialogsOnlineBadgeFg: #ffffff; // chat list online status
 dialogsBgOver: #222222; // chat list background with mouse over
 dialogsNameFgOver: windowBoldFgOver; // chat list name text with mouse over
 dialogsChatIconFgOver: #dddddd; // chat list group or channel icon with mouse over
@@ -322,12 +322,12 @@ historyFileThumbIconFgSelected: #ffffff; // selected file with thumbnail (or pho
 historyFileThumbRadialFg: historyFileThumbIconFg; // file with thumbnail (or photo / video) radial download animation line
 historyFileThumbRadialFgSelected: #ffffff; // selected file with thumbnail (or photo / video) radial download animation line
 historyVideoMessageProgressFg: historyFileThumbIconFg; // radial playback progress in round video messages
-msgWaveformInActive: windowBgActive; // inbox voice message active waveform lines (like played part of currently playing voice message)
-msgWaveformInActiveSelected: #eeeeee; // inbox selected voice message active waveform lines (like played part of currently playing voice message)
+msgWaveformInActive: #797979; // inbox voice message active waveform lines (like played part of currently playing voice message)
+msgWaveformInActiveSelected: #797979; // inbox selected voice message active waveform lines (like played part of currently playing voice message)
 msgWaveformInInactive: #555555; // inbox voice message inactive waveform lines (like upcoming part of currently playing voice message)
 msgWaveformInInactiveSelected: #777777; // inbox selected voice message inactive waveform lines (like upcoming part of currently playing voice message)
-msgWaveformOutActive: #999999; // outbox voice message active waveform lines (like played part of currently playing voice message)
-msgWaveformOutActiveSelected: #ffffff; // outbox selected voice message active waveform lines (like played part of currently playing voice message)
+msgWaveformOutActive: #797979; // outbox voice message active waveform lines (like played part of currently playing voice message)
+msgWaveformOutActiveSelected: #797979; // outbox selected voice message active waveform lines (like played part of currently playing voice message)
 msgWaveformOutInactive: #444444; // outbox voice message inactive waveform lines (like upcoming part of currently playing voice message)
 msgWaveformOutInactiveSelected: #999999; // outbox selected voice message inactive waveform lines (like upcoming part of currently playing voice message)
 msgBotKbOverBgAdd: #ffffff14; // this is painted over a bot inline keyboard button (which has msgServiceBg background) when mouse is over that button
